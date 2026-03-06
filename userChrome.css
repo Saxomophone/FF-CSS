@@ -1,0 +1,20 @@
+panelview,  
+.panel-arrowcontent{ 
+  background: #1e2030 !important;  
+  color: #c6a0f6 !important;
+}
+
+/* set --toolbar-bgcolor in #main to #ff0000*/
+:root {
+  --toolbar-bgcolor: #181926 !important;  
+/*   --tab-selected-bgcolor: powderblue !important; */
+  
+  /* urlbar (Firefox 92+) */
+  --toolbar-field-border-color: #f0c6c6 !important;
+  --toolbar-field-background-color: #181926 !important;
+  --toolbar-field-focus-background-color: #24273a !important;
+  
+  /* top bar */
+  --lwt-accent-color: #181926 !important;
+  --lwt-text-color: #f2d5cf !important;
+}
